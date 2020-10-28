@@ -5,8 +5,8 @@
 anime({
     targets:".d",
     translateY:[-100,0],
-    duration:2000,
-    loop:false,
+    duration:3000,
+    loop:true,
     delay:function(el,i){
         return 1000 + 100 * i;
     }
