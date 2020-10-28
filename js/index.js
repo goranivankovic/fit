@@ -12,7 +12,7 @@ anime({
     }
    
 })
-console.log('11111111');
+
 
 
 
@@ -27,7 +27,7 @@ AOS.init({
     duration:1500,
     delay:500,
     offset: 100,
-    once: true
+    
 
 })
 
