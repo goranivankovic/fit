@@ -1,0 +1,25 @@
+img{
+    height:70%;
+    width:100%;
+}
+video{
+    width: 100%;
+    height: 100%;
+}
+
+.tt{
+    margin-bottom: 15px;
+}
+.slika{
+    height: 100%;
+    width: 100%;
+}
+.umanji:hover{
+    transform: scale(0.95);
+    transition: 2000ms;
+    
+}
+ ul li:hover a{
+text-decoration: none;
+
+}
